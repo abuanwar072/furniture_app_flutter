@@ -1,6 +1,6 @@
 # Furniture App - Flutter UI
 
-## [Watch it on YouTube](https://youtu.be/6hUSNDGkg1c)
+## [Watch it on YouTube](https://youtu.be/bkR7naR1efA)
 
 **Packages we are using:**
 
